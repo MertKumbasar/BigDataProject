@@ -1,0 +1,560 @@
+[{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be870"
+  },
+  "month": "2023-11",
+  "parameter": "mean_wave_direction:d",
+  "mean_value": 133.70000000000002
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be872"
+  },
+  "month": "2023-12",
+  "parameter": "mean_wave_direction:d",
+  "mean_value": 191.80309139784944
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be874"
+  },
+  "month": "2024-01",
+  "parameter": "mean_wave_direction:d",
+  "mean_value": 195.43333333333334
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be876"
+  },
+  "month": "2024-02",
+  "parameter": "mean_wave_direction:d",
+  "mean_value": 173.78548850574708
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be878"
+  },
+  "month": "2024-03",
+  "parameter": "mean_wave_direction:d",
+  "mean_value": 165.09825268817204
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be87a"
+  },
+  "month": "2024-04",
+  "parameter": "mean_wave_direction:d",
+  "mean_value": 185.4122222222222
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be87c"
+  },
+  "month": "2024-05",
+  "parameter": "mean_wave_direction:d",
+  "mean_value": 131.16201996927805
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be9ee"
+  },
+  "month": "2023-11",
+  "parameter": "msl_pressure_mean_1h:Pa",
+  "mean_value": 101875.33333333333
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be9f0"
+  },
+  "month": "2023-12",
+  "parameter": "msl_pressure_mean_1h:Pa",
+  "mean_value": 101622.44758064517
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be9f2"
+  },
+  "month": "2024-01",
+  "parameter": "msl_pressure_mean_1h:Pa",
+  "mean_value": 101820.1061827957
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be9f4"
+  },
+  "month": "2024-02",
+  "parameter": "msl_pressure_mean_1h:Pa",
+  "mean_value": 101824.17241379309
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be9f6"
+  },
+  "month": "2024-03",
+  "parameter": "msl_pressure_mean_1h:Pa",
+  "mean_value": 101622.93817204301
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be9f8"
+  },
+  "month": "2024-04",
+  "parameter": "msl_pressure_mean_1h:Pa",
+  "mean_value": 101529.7861111111
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9be9fa"
+  },
+  "month": "2024-05",
+  "parameter": "msl_pressure_mean_1h:Pa",
+  "mean_value": 101498.107718894
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9beb6c"
+  },
+  "month": "2023-11",
+  "parameter": "relative_humidity_2m:p",
+  "mean_value": 83.23333333333333
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9beb6e"
+  },
+  "month": "2023-12",
+  "parameter": "relative_humidity_2m:p",
+  "mean_value": 81.68682795698928
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9beb70"
+  },
+  "month": "2024-01",
+  "parameter": "relative_humidity_2m:p",
+  "mean_value": 76.92674731182795
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9beb72"
+  },
+  "month": "2024-02",
+  "parameter": "relative_humidity_2m:p",
+  "mean_value": 81.80933908045976
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9beb74"
+  },
+  "month": "2024-03",
+  "parameter": "relative_humidity_2m:p",
+  "mean_value": 80.63104838709674
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9beb76"
+  },
+  "month": "2024-04",
+  "parameter": "relative_humidity_2m:p",
+  "mean_value": 84.25166666666665
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9beb78"
+  },
+  "month": "2024-05",
+  "parameter": "relative_humidity_2m:p",
+  "mean_value": 78.80353302611367
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9becea"
+  },
+  "month": "2023-11",
+  "parameter": "sea_salt_0p03um_0p5um:ugm3",
+  "mean_value": 2.595333333333333
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9becec"
+  },
+  "month": "2023-12",
+  "parameter": "sea_salt_0p03um_0p5um:ugm3",
+  "mean_value": 3.6414368279569893
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9becee"
+  },
+  "month": "2024-01",
+  "parameter": "sea_salt_0p03um_0p5um:ugm3",
+  "mean_value": 2.8961397849462367
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9becf0"
+  },
+  "month": "2024-02",
+  "parameter": "sea_salt_0p03um_0p5um:ugm3",
+  "mean_value": 4.598307471264368
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9becf2"
+  },
+  "month": "2024-03",
+  "parameter": "sea_salt_0p03um_0p5um:ugm3",
+  "mean_value": 3.814142473118279
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9becf4"
+  },
+  "month": "2024-04",
+  "parameter": "sea_salt_0p03um_0p5um:ugm3",
+  "mean_value": 6.713702777777778
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9becf6"
+  },
+  "month": "2024-05",
+  "parameter": "sea_salt_0p03um_0p5um:ugm3",
+  "mean_value": 3.428294162826421
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9bee68"
+  },
+  "month": "2023-11",
+  "parameter": "significant_wave_height:m",
+  "mean_value": 0.81
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9bee6a"
+  },
+  "month": "2023-12",
+  "parameter": "significant_wave_height:m",
+  "mean_value": 1.3079301075268814
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9bee6c"
+  },
+  "month": "2024-01",
+  "parameter": "significant_wave_height:m",
+  "mean_value": 1.4057795698924729
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9bee6e"
+  },
+  "month": "2024-02",
+  "parameter": "significant_wave_height:m",
+  "mean_value": 1.1815517241379307
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9bee70"
+  },
+  "month": "2024-03",
+  "parameter": "significant_wave_height:m",
+  "mean_value": 0.8998521505376346
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9bee72"
+  },
+  "month": "2024-04",
+  "parameter": "significant_wave_height:m",
+  "mean_value": 0.7924305555555555
+},
+{
+  "_id": {
+    "$oid": "6658dbdb3265e32b3f9bee74"
+  },
+  "month": "2024-05",
+  "parameter": "significant_wave_height:m",
+  "mean_value": 0.8072503840245775
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9befe6"
+  },
+  "month": "2023-11",
+  "parameter": "t_sea_sfc:C",
+  "mean_value": 12.300000000000002
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9befe8"
+  },
+  "month": "2023-12",
+  "parameter": "t_sea_sfc:C",
+  "mean_value": 11.741935483870968
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9befea"
+  },
+  "month": "2024-01",
+  "parameter": "t_sea_sfc:C",
+  "mean_value": 10.295161290322582
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9befec"
+  },
+  "month": "2024-02",
+  "parameter": "t_sea_sfc:C",
+  "mean_value": 9.71278735632184
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9befee"
+  },
+  "month": "2024-03",
+  "parameter": "t_sea_sfc:C",
+  "mean_value": 9.837768817204301
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9beff0"
+  },
+  "month": "2024-04",
+  "parameter": "t_sea_sfc:C",
+  "mean_value": 12.783333333333333
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9beff2"
+  },
+  "month": "2024-05",
+  "parameter": "t_sea_sfc:C",
+  "mean_value": 15.571505376344087
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf165"
+  },
+  "month": "2023-11",
+  "parameter": "visibility:m",
+  "mean_value": 33901.166666666664
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf167"
+  },
+  "month": "2023-12",
+  "parameter": "visibility:m",
+  "mean_value": 29483.544892473117
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf169"
+  },
+  "month": "2024-01",
+  "parameter": "visibility:m",
+  "mean_value": 27358.084543010755
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf16b"
+  },
+  "month": "2024-02",
+  "parameter": "visibility:m",
+  "mean_value": 23342.6198275862
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf16d"
+  },
+  "month": "2024-03",
+  "parameter": "visibility:m",
+  "mean_value": 24819.994623655915
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf16f"
+  },
+  "month": "2024-04",
+  "parameter": "visibility:m",
+  "mean_value": 26263.69833333333
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf171"
+  },
+  "month": "2024-05",
+  "parameter": "visibility:m",
+  "mean_value": 29966.5561827957
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf2e3"
+  },
+  "month": "2023-11",
+  "parameter": "wind_dir_10m:d",
+  "mean_value": 153.53333333333333
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf2e5"
+  },
+  "month": "2023-12",
+  "parameter": "wind_dir_10m:d",
+  "mean_value": 203.75120967741938
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf2e7"
+  },
+  "month": "2024-01",
+  "parameter": "wind_dir_10m:d",
+  "mean_value": 197.4075268817204
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf2e9"
+  },
+  "month": "2024-02",
+  "parameter": "wind_dir_10m:d",
+  "mean_value": 167.63146551724137
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf2eb"
+  },
+  "month": "2024-03",
+  "parameter": "wind_dir_10m:d",
+  "mean_value": 169.3004032258064
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf2ed"
+  },
+  "month": "2024-04",
+  "parameter": "wind_dir_10m:d",
+  "mean_value": 177.47944444444448
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf2ef"
+  },
+  "month": "2024-05",
+  "parameter": "wind_dir_10m:d",
+  "mean_value": 136.00368663594472
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf461"
+  },
+  "month": "2023-11",
+  "parameter": "wind_speed_10m:ms",
+  "mean_value": 6.733333333333333
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf463"
+  },
+  "month": "2023-12",
+  "parameter": "wind_speed_10m:ms",
+  "mean_value": 7.264381720430108
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf465"
+  },
+  "month": "2024-01",
+  "parameter": "wind_speed_10m:ms",
+  "mean_value": 7.486962365591397
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf467"
+  },
+  "month": "2024-02",
+  "parameter": "wind_speed_10m:ms",
+  "mean_value": 7.1369252873563225
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf469"
+  },
+  "month": "2024-03",
+  "parameter": "wind_speed_10m:ms",
+  "mean_value": 5.548655913978495
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf46b"
+  },
+  "month": "2024-04",
+  "parameter": "wind_speed_10m:ms",
+  "mean_value": 5.391805555555556
+},
+{
+  "_id": {
+    "$oid": "6658dbdc3265e32b3f9bf46d"
+  },
+  "month": "2024-05",
+  "parameter": "wind_speed_10m:ms",
+  "mean_value": 5.570890937019971
+},
+{
+  "_id": {
+    "$oid": "6658dbdd3265e32b3f9bf5e2"
+  },
+  "month": "2023-11",
+  "parameter": "t_10m:C",
+  "mean_value": 10.533333333333333
+},
+{
+  "_id": {
+    "$oid": "6658dbdd3265e32b3f9bf5e4"
+  },
+  "month": "2023-12",
+  "parameter": "t_10m:C",
+  "mean_value": 10.311424731182797
+},
+{
+  "_id": {
+    "$oid": "6658dbdd3265e32b3f9bf5e6"
+  },
+  "month": "2024-01",
+  "parameter": "t_10m:C",
+  "mean_value": 7.338709677419353
+},
+{
+  "_id": {
+    "$oid": "6658dbdd3265e32b3f9bf5e8"
+  },
+  "month": "2024-02",
+  "parameter": "t_10m:C",
+  "mean_value": 8.841091954022989
+},
+{
+  "_id": {
+    "$oid": "6658dbdd3265e32b3f9bf5ea"
+  },
+  "month": "2024-03",
+  "parameter": "t_10m:C",
+  "mean_value": 8.863306451612903
+},
+{
+  "_id": {
+    "$oid": "6658dbdd3265e32b3f9bf5ec"
+  },
+  "month": "2024-04",
+  "parameter": "t_10m:C",
+  "mean_value": 13.348611111111108
+},
+{
+  "_id": {
+    "$oid": "6658dbdd3265e32b3f9bf5ee"
+  },
+  "month": "2024-05",
+  "parameter": "t_10m:C",
+  "mean_value": 15.252649769585256
+}]
